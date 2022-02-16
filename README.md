@@ -23,7 +23,7 @@ This project is build as a part of masai school(30 weeks of boot camp) curricula
 - User can find and filter products by their price.
 - Users can view details of selected products.
 - users can add products to their cart.
-- Users can feed both temporary and Parmanent address and make the Payments through upi, card or Cash
+- Users can feed  address and make the Payments through upi, card or Cash
 
 
 
