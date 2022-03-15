@@ -28,7 +28,12 @@ This project is build as a part of masai school(30 weeks of boot camp) curricula
 
 
 
-
+- **[SAJAN MADAAN](https://github.com/sajanmadaan)**
+- **[ANSHUL SHARMA](https://github.com/anshul160196)**
+- **[KUNDAN PRASAD](https://github.com/KundanPrasad11)**
+- **[NAGENDRA MURLIDHAR PULLA](https://github.com/nag-murali)**
+- **[AKSHIT](https://github.com/akkii0703)**
+- **[YOGESH KUMAWAT](https://github.com/yogeshkumawat007)**
 
 
 
